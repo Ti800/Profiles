@@ -1,1 +1,1 @@
-#focus on china list.
+focus on china list.
